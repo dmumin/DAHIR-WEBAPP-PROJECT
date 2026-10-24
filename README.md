@@ -57,12 +57,12 @@ To get this project up and running on your local machine, follow these steps:
 <br>
 
 ## Contact
-If you have any questions or comments about the NextWork Web Project, please contact:
+If you have any questions or comments about My Web Project, please contact:
 dmumin - [My Email](mailto:dahirmumin7@gmail.com)
 
 - [LinkedIn] (https://www.linkedin.com/in/dahir-mumin-661682335/)
 <br>
 
 ## Conclusion
-Thank you for exploring this project! I'll continue to build this pipeline and apply my learnings to future projects.
+Thank you for exploring my project! I'll continue to build this pipeline and apply my learnings to future projects.
 
